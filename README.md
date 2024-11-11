@@ -8,6 +8,13 @@
 ## 📝 Note
 This is an unofficial app developed for the students of KLE Technological University &  Dr. M.S.Sheshgiri College of Engineering & Technology, It's designed to make academic life easier by providing a unified platform for all university-related resources and tools.
 
+
+## Download the APK
+
+[![Download Quick Notes](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
+
+
+
 ## 📱 Screens🔥
 📱 Main App Screens
 <div align="center">
@@ -87,7 +94,9 @@ This is an unofficial app developed for the students of KLE Technological Univer
   </table>
 </div>
 
-[Previous sections remain the same until Key Features]
+## Download the APK
+
+[![Download Quick Notes](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
 
 ## ✨ Key Features
 
