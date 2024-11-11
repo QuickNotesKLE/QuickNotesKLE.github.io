@@ -11,7 +11,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 
 ## Download the APK
 
-[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/886514872/e6fd1318-1b78-4330-8cf8-8f4481792cd3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241111T075904Z&X-Amz-Expires=300&X-Amz-Signature=9bcadf24ef08bee0f68b8e737f512c2279c1d9f6c4e1b9bfc424dfa6c963f7a7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DQuickNotes.apk&response-content-type=application%2Fvnd.android.package-archive)
+[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/886514872/e6fd1318-1b78-4330-8cf8-8f4481792cd3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241111T090108Z&X-Amz-Expires=300&X-Amz-Signature=d92e2a5401b3f2b74d5105fad8bec98dc5e0972c5ce99a26557496f690b62436&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DQuickNotes.apk&response-content-type=application%2Fvnd.android.package-archive)
 
 
 
@@ -96,7 +96,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 
 ## Download the APK
 
-[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/886514872/e6fd1318-1b78-4330-8cf8-8f4481792cd3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241111T075904Z&X-Amz-Expires=300&X-Amz-Signature=9bcadf24ef08bee0f68b8e737f512c2279c1d9f6c4e1b9bfc424dfa6c963f7a7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DQuickNotes.apk&response-content-type=application%2Fvnd.android.package-archive)
+[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/886514872/e6fd1318-1b78-4330-8cf8-8f4481792cd3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241111T090108Z&X-Amz-Expires=300&X-Amz-Signature=d92e2a5401b3f2b74d5105fad8bec98dc5e0972c5ce99a26557496f690b62436&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DQuickNotes.apk&response-content-type=application%2Fvnd.android.package-archive)
 
 ## ✨ Key Features
 
