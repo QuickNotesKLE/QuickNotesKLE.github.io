@@ -1,4 +1,4 @@
-# 📱 Your App Name
+# Quick Notes🚀
 <div align="center">
   <img src="logo.jpg" width="180" alt="Main Screen"/>
   <br>
