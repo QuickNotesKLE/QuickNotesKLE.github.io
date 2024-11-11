@@ -11,7 +11,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 
 ## Download the APK
 
-[![Download Quick Notes](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
+[![](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
 
 
 
