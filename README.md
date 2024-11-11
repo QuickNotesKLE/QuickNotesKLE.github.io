@@ -84,18 +84,77 @@
   </table>
 </div>
 
+[Previous sections remain the same until Key Features]
+
 ## ✨ Key Features
 
-- 🏠 Intuitive home dashboard with quick access to all features
-- 📊 Real-time attendance tracking and monitoring
-- 📝 Built-in grade calculator for academic performance
-- 📅 Dynamic timetable management
-- 💻 Integrated Learning Management System
-- 🖥️ Online code compilation and execution
-- 👤 Comprehensive profile management
-- 📰 Latest campus news and updates
-- 📋 Examination portal access
-- 🔄 Regular feature updates and improvements
+### 📚 Comprehensive Study Materials
+- Access study materials from **KLE Technological University** and **Dr. College of Belgium**
+- Department-wise organized content
+- Semester-specific materials including:
+  - Notes
+  - Question Papers
+  - Study Resources
+- Cross-department access (access materials from any department/semester)
+
+### 📅 Academic Planning & Updates
+- Real-time class timetable view
+- Complete college year plan access
+- Department-specific news and updates
+- Trending news from your department
+- Personalized news feed based on your department
+
+### 👤 Smart Profile Management
+- Easy profile editing
+- Flexible department switching
+- Semester updating
+- Customizable access preferences
+
+### 🔗 Unified College Portal Access
+- Single gateway to all college websites
+- Centralized access to university resources
+- Streamlined navigation to institutional portals
+
+### 📊 Smart Attendance System
+- **One-time login feature**
+  - No repeated credential entry needed
+  - No captcha requirements
+  - Dynamic attendance updates
+- Automated session management
+- Real-time attendance tracking
+
+### 📚 Academic Tools
+- Learning Management System (LMS) integration
+- Results checking portal
+- Academic calendar integration
+
+### 🛠️ Smart Tools for Students
+- **Online Compiler Suite**
+  - Multiple programming language support
+  - Practice-ready coding environment
+  - No setup required
+- **Scientific Calculator**
+  - Complete scientific functions
+  - Perfect for quick calculations
+  - Backup for physical calculator
+
+## ⚠️ Important Notice
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">🔒 <b>Privacy & Data Security</b></p>
+        <p align="center">This application does not store any user data on external servers. All data is cached locally on your device. Your privacy is our priority - we maintain zero database storage of user information.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📝 Note
+This is an unofficial app developed for the students of KLE Technological University. It's designed to make academic life easier by providing a unified platform for all university-related resources and tools.
+
+[Rest of the sections remain the same]
 
 ## 🔧 Technical Requirements
 
