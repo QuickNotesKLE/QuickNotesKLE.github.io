@@ -152,11 +152,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 Required for: LMS, attendance, results, news updates, compilers, Scientific calculator
 Works offline for: saved timetables, COE.
 
-## 📥 Installation
 
-1. Download the latest APK from [Releases](link-to-releases)
-2. Enable installation from unknown sources
-3. Install and enjoy!
 
 📢 Stay Updated!
 <div align="center">
