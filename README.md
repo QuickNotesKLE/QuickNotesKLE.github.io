@@ -183,5 +183,5 @@ Works offline for: saved timetables, COE.
 
 ---
 <div align="center">
-  Made with ❤️ for Students of BVB and Shisgiri.
+  Made with ❤️ for Students of BVB and Shishgiri.
 </div>
