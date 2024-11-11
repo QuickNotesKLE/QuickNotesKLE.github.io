@@ -5,6 +5,9 @@
   <p><em>Your all-in-one study companion—Notes,Question Papers,Video lectures,attendance,Time table,Year plan,coding and more!</em></p>
 </div>
 
+## 📝 Note
+This is an unofficial app developed for the students of KLE Technological University &  Dr. M.S.Sheshgiri College of Engineering & Technology, It's designed to make academic life easier by providing a unified platform for all university-related resources and tools.
+
 ## 📱 Screens🔥
 📱 Main App Screens
 <div align="center">
@@ -27,9 +30,9 @@
       <td><img src="main2.jpg" width="200" alt="Main 2"/></td>
     </tr>
     <tr>
-      <td align="center">Profile Details</td>
+      <td align="center">Profile Extended</td>
       <td align="center">Main Dashboard</td>
-      <td align="center">Features Dashboard</td>
+      <td align="center">List tile of all subjects</td>
     </tr>
   </table>
   <table>
@@ -39,7 +42,7 @@
       <td><img src="COE.jpg" width="200" alt="COE"/></td>
     </tr>
     <tr>
-      <td align="center">Quick Navigation</td>
+      <td align="center">Smart Drawer</td>
       <td align="center">Time Table</td>
       <td align="center">COE Portal</td>
     </tr>
@@ -78,7 +81,7 @@
     </tr>
     <tr>
       <td align="center"><b>Smart Compiler</b></td>
-      <td align="center"><b>Compiler Options</b></td>
+      <td align="center"><b>Smart Compiler List</b></td>
       <td align="center"><b>Smart Calculator</b></td>
     </tr>
   </table>
@@ -89,7 +92,7 @@
 ## ✨ Key Features
 
 ### 📚 Comprehensive Study Materials
-- Access study materials from **KLE Technological University** and **Dr. College of Belgium**
+- Access study materials from **KLE Technological University** and ** Dr. M.S.Sheshgiri College of Engineering & Technology**
 - Department-wise organized content
 - Semester-specific materials including:
   - Notes
@@ -97,12 +100,19 @@
   - Study Resources
 - Cross-department access (access materials from any department/semester)
 
-### 📅 Academic Planning & Updates
-- Real-time class timetable view
-- Complete college year plan access
-- Department-specific news and updates
-- Trending news from your department
-- Personalized news feed based on your department
+### 📅 Academic Tools & Updates
+- Access the Lms in one tap.
+-  Results checking portal
+- ### 📊 Smart Attendance System
+- **One-time login feature**
+  - No repeated credential entry needed
+  - No captcha requirements
+  - Dynamic attendance updates
+- Store Your Class timetable for Quick view Everyday.
+- Access the calender of Events (COE)
+- Get Access to the Latest News related to your department.
+  
+
 
 ### 👤 Smart Profile Management
 - Easy profile editing
@@ -110,23 +120,6 @@
 - Semester updating
 - Customizable access preferences
 
-### 🔗 Unified College Portal Access
-- Single gateway to all college websites
-- Centralized access to university resources
-- Streamlined navigation to institutional portals
-
-### 📊 Smart Attendance System
-- **One-time login feature**
-  - No repeated credential entry needed
-  - No captcha requirements
-  - Dynamic attendance updates
-- Automated session management
-- Real-time attendance tracking
-
-### 📚 Academic Tools
-- Learning Management System (LMS) integration
-- Results checking portal
-- Academic calendar integration
 
 ### 🛠️ Smart Tools for Students
 - **Online Compiler Suite**
@@ -137,6 +130,49 @@
   - Complete scientific functions
   - Perfect for quick calculations
   - Backup for physical calculator
+
+
+
+
+🔧 Technical Requirements
+
+📱 Android Compatibility: Works on both latest and older Android versions
+💾 App Size: Only 30.7 MB
+🌐 Internet Access:
+
+Required for: LMS, attendance, results, news updates, compilers, Scientific calculator
+Works offline for: saved timetables, COE.
+
+## 📥 Installation
+
+1. Download the latest APK from [Releases](link-to-releases)
+2. Enable installation from unknown sources
+3. Install and enjoy!
+
+📢 Stay Updated!
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">🔔 <b>Never Miss an Update!</b></p>
+        <p align="center">Join our Quick Notes WhatsApp Channel for:</p>
+        <ul align="center" style="list-style: none; padding: 0;">
+          <li>🚀 Latest App Updates</li>
+          <li>✨ New Features</li>
+          <li>🔧 Bug Fixes</li>
+          <li>📢 Important Announcements</li>
+        </ul>
+        <p align="center">
+          <a href="https://whatsapp.com/channel/0029VawPcEL05MUgALHook2K">
+            <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## ⚠️ Important Notice
 
@@ -149,34 +185,9 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 📝 Note
-This is an unofficial app developed for the students of KLE Technological University. It's designed to make academic life easier by providing a unified platform for all university-related resources and tools.
-
-[Rest of the sections remain the same]
-
-## 🔧 Technical Requirements
-
-- Android 6.0 or higher
-- Minimum 2GB RAM
-- Internet connection required
-- Storage: 50MB free space
-
-## 📥 Installation
-
-1. Download the latest APK from [Releases](link-to-releases)
-2. Enable installation from unknown sources
-3. Install and enjoy!
-
-## 🤝 Support
-
-For any queries or support:
-- 📧 Email: support@yourdomain.com
-- 💬 In-app support available
-- 📱 Contact: +XX XXXXX XXXXX
+</div>  
 
 ---
 <div align="center">
-  Made with ❤️ for Students
+  Made with ❤️ for Students of BVB and Shisgiri.
 </div>
