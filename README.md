@@ -11,7 +11,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 
 ## Download the APK
 
-[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
+[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1KeMTSLl8P1JdTHpQDav-GjRJiCuZg-hu/view?usp=drivesdk)
 
 
 
@@ -96,7 +96,7 @@ This is an unofficial app developed for the students of KLE Technological Univer
 
 ## Download the APK
 
-[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/QuickNotesKLE/QuickNotesKLE.github.io/releases/download/v1.0.0/QuickNotes.apk)
+[![Download](https://img.shields.io/badge/Download-Quick_Notes_APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1KeMTSLl8P1JdTHpQDav-GjRJiCuZg-hu/view?usp=drivesdk)
 
 ## ✨ Key Features
 
